@@ -14,7 +14,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         tv=(TextView)findViewById(R.id.textView);
-
     }
 
     public void greet( View v){
