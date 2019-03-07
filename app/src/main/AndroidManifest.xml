@@ -22,9 +22,12 @@
         <activity
             android:name=".ImageAct"
             android:exported="true" />
-        <activity android:name=".SenderActivity"
-            android:exported="true"/>
-        <activity android:name=".ReceiverAct"></activity>
+        <activity
+            android:name=".SenderActivity"
+            android:exported="true" />
+        <activity android:name=".ReceiverAct" />
+        <activity android:name=".ListViewAct1"
+            android:exported="true" ></activity>
     </application>
 
 </manifest>
